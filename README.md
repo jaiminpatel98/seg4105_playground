@@ -24,7 +24,7 @@ N/A
 
 ## Contributors
 
-Jaimin Patel
+Jaimin Patel - jaiminpatel98@gmail.com
 
 ## License
 
